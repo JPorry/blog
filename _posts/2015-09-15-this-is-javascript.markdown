@@ -5,7 +5,7 @@ last_modified_at: 2015-03-15T05:20:00+05:45 # last page modified date/time
 date:   2015-09-15 12:19:35
 categories: Javascript this
 imageTitle: This is Spa...JAVASCRIPT
-featured_image: http://www.javierporrero.com/blog/assets/this-is-javascript.jpg
+featured_image: this-is-javascript.jpg
 ---
 
 Nope, I am not Leonidas nor this is Sparta. In this post I am going to shed some light on the 

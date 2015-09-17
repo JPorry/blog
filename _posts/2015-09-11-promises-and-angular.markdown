@@ -4,7 +4,7 @@ title:  "Promises & Angular"
 date:   2015-09-11 12:19:35
 categories: AngularJS promises
 imageTitle: Do you trust me? Then...
-featured_image: http://www.javierporrero.com/blog/assets/promises.jpg
+featured_image: promises.jpg
 ---
 
 Promises are one of the best things ever happened to Javascript, but as good as they are, they can be hard to get in the right way. This is why I created this post, I see a lot of people out there using promises, but some of them are not using them properly or not using all the power that this little friends can give us. So, let's get started with some general stuff.
