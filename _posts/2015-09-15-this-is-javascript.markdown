@@ -5,6 +5,7 @@ last_modified_at: 2015-03-15T05:20:00+05:45 # last page modified date/time
 date:   2015-09-15 12:19:35
 categories: Javascript this
 imageTitle: This is Spa...JAVASCRIPT
+comments: true
 featured_image: this-is-javascript.jpg
 ---
 

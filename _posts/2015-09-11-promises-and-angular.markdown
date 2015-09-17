@@ -4,6 +4,7 @@ title:  "Promises & Angular"
 date:   2015-09-11 12:19:35
 categories: AngularJS promises
 imageTitle: Do you trust me? Then...
+comments: true
 featured_image: promises.jpg
 ---
 
