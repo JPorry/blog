@@ -57,7 +57,7 @@ new anotherFunc() //undefined
 
 {% endhighlight %}
 
-Maaaan, that is why too much! The same function called in four different ways and every one of them (almost) have a
+Maaaan, that is way too much! The same function called in four different ways and every one of them (almost) have a
 different **this** object. Sometimes it is the global object, sometimes it is not and sometimes it is even undefined! How
 does this stuff work?
 
