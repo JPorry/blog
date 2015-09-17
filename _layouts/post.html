@@ -9,7 +9,7 @@ layout: default
   </header>
 
   <article class="post-content">
-    <img src="{{ page.featured_image | prepend: 'assets' | prepend: site.baseurl | prepend: site.url }}" alt="{{page.imageTitle}}">
+    <img src="{{ page.featured_image | prepend: '/assets/' | prepend: site.baseurl | prepend: site.url }}" alt="{{page.imageTitle}}">
     <br />
     <br />
     {{ content }}
