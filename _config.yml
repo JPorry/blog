@@ -1,17 +1,15 @@
 # Site settings
 title: JsPorrero
-email: your-email@domain.com
+email: porrero.javier@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://localhost:8000" # the base hostname & protocol for your site
+  My personal blog about Javascript and Front End Development.
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
+url: "http://www.javierporrero.com" # the base hostname & protocol for your site
 twitter_username: jsPorrero
 github_username:  JPorry
 
-timezone:       Europe/Spain # eg. Asia/Kathmandu
-locale:         en_us # eg. en_us
+timezone:       Europe/Spain
+locale:         en_us
 name:           "JSPorrero - A Blog about Javascript"
 author:
   facebook:     jporry@gmail.com
