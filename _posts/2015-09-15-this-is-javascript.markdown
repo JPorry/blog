@@ -3,7 +3,7 @@ layout: post
 title:  "this is Javascript!!"
 last_modified_at: 2015-03-15T05:20:00+05:45 # last page modified date/time
 date:   2015-09-15 12:19:35
-categories: Javascript, this
+categories: Javascript this
 imageTitle: This is Spa...JAVASCRIPT
 featured_image: http://www.javierporrero.com/blog/assets/this-is-javascript.jpg
 ---

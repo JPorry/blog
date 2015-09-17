@@ -2,7 +2,7 @@
 layout: post
 title:  "Promises & Angular"
 date:   2015-09-11 12:19:35
-categories: AngularJS, promises
+categories: AngularJS promises
 imageTitle: Do you trust me? Then...
 featured_image: http://www.javierporrero.com/blog/assets/promises.jpg
 ---
