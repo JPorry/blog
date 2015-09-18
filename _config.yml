@@ -3,8 +3,8 @@ title: JsPorrero
 email: porrero.javier@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   My personal blog about Javascript and Front End Development.
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://www.javierporrero.com" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://blog.javierporrero.com" # the base hostname & protocol for your site
 twitter_username: jsPorrero
 github_username:  JPorry
 
